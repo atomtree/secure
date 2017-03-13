@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/Hellowor/martini"
+	"github.com/atomtree/martini"
 )
 
 func Test_No_Config(t *testing.T) {
